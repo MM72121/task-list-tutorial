@@ -1,0 +1,1 @@
+export const API_URL = "https://kscjvhzzmgmj3nkz3cfamcxolm0ysfxk.lambda-url.us-east-1.on.aws/task";
